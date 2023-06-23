@@ -6,7 +6,7 @@ This is a small project with the purpose of learning user login and registration
 
 - First you need any SQL based DB, i personally chose MYSQL.
 
-- Then you need to create in src folder a file called keys.js. In this file you have to specify your database info. Here is an example
+- Then you need to create in the src folder, a file called keys.js. In this file you have to specify your database info. Here is an example
 
 ```js
 module.exports{
@@ -27,4 +27,4 @@ module.exports{
 npm run dev
 ```
 
-- Done! You now can save your links. Enjoy!
+- Done! Now you can save your favourite links. Enjoy!
